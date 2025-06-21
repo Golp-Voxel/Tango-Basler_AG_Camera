@@ -1,0 +1,5 @@
+numpy==1.26.4
+packaging==25.0
+psutil==7.0.0
+pypylon==4.2.0
+pytango==9.5.0
