@@ -1,0 +1,8 @@
+@echo off
+call "C:\Users\User\Desktop\Golpe_Voxel\Tango-Basler_AG_Camera\tango-env\Scripts\activate.bat"
+
+cd C:\Users\User\Desktop\Golpe_Voxel\Tango-Basler_AG_Camera
+
+python C:\Users\User\Desktop\Golpe_Voxel\Tango-Basler_AG_Camera\Basler_AG_Camera.py %*  2>&1
+
+
